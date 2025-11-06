@@ -9,9 +9,9 @@ Compare performance of multiple ML models
 Work toward a deployable screening solution for healthcare use
 
 ## Results
-Model	Accuracy
-Gradient Boosting Classifier	92.01% 
-Logistic Regression	81.97%
+Model	Accuracy <br>
+Gradient Boosting Classifier	92.01% <br>
+Logistic Regression	81.97% <br>
 KNN	69.05%
 
 The Gradient Boosting Classifier demonstrated superior performance, making it well-suited for osteoporosis prediction.
